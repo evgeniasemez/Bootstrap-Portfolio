@@ -1,22 +1,22 @@
 
 .fa-linkedin-in{
-    background-color: grey;
+    background-color: #ffffff99;
     border: 3px blue;
     padding: 10px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
 }
 .fa-github{
-    background-color: grey;
+    background-color: #ffffff99;
     border: 3px orange;
     padding: 10px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     color: orange;
 }
 .fa-facebook-f{
-    background-color: grey;
+    background-color: #ffffff99;
     border: 3px orange;
     padding: 10px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     color: blue;
 }
 
