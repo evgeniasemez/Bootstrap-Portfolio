@@ -47,3 +47,11 @@ h1 {
 .navbar-brand mb-1 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
+
+.col-md-12 {
+    background-image: url("images/white-waves.png");
+}
+.card-body footer-dark bg-dark {
+    position: fixed;
+    padding: 10px;
+}
