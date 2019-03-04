@@ -1,0 +1,49 @@
+
+.fa-linkedin-in{
+    background-color: grey;
+    border: 3px blue;
+    padding: 10px;
+    border-radius: 50%;
+}
+.fa-github{
+    background-color: grey;
+    border: 3px orange;
+    padding: 10px;
+    border-radius: 50%;
+    color: orange;
+}
+.fa-facebook-f{
+    background-color: grey;
+    border: 3px orange;
+    padding: 10px;
+    border-radius: 50%;
+    color: blue;
+}
+
+#navbarSupportedContent {
+    /* padding: 10px; */
+    background-color: #526e8d;
+}
+
+.text-center {
+    background-color: #526e8d;
+}
+
+.navbar {
+    padding: 1.25rem;
+}
+
+.underline {
+    border-color: black; 
+}
+
+h3 {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-left: 2%;
+}
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+.navbar-brand mb-1 h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
